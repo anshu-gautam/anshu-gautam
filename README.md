@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshu-gautam" alt="anshu-gautam" /></a> </p>
 
-- 🌱 I’m currently learning **next.js**
 
 - 📫 How to reach me **gautamanshu958@gmail.com**
 
